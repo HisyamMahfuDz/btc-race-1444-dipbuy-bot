@@ -1,6 +1,8 @@
 # Dip-Buy Mean-Reversion cbBTC Bot — make.fun `btc-race-24h-20261118-1444`
 
-[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/HisyamMahfuDz/btc-race-1444-dipbuy-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/HisyamMahfuDz/btc-race-1444-dipbuy-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 A trading bot that races Coinbase Wrapped BTC (cbBTC) minute by minute on
 real on-chain prices from its Orca Whirlpool on Solana. Simulation only:
